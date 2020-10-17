@@ -4,6 +4,6 @@ class Person
     @name = name
   end
 
-  attr acessor :name 
+  attr accessor :name
 
 end
